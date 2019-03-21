@@ -1,0 +1,27 @@
+{
+  "name": "alura_nodejs",
+  "version": "1.0.0",
+  "description": "Curso alura",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoASN/alura_nodejs.git"
+  },
+  "author": "Bruno Nascimento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoASN/alura_nodejs/issues"
+  },
+  "homepage": "https://github.com/BrunoASN/alura_nodejs#readme",
+  "dependencies": {
+    "express": "4.16.3",
+    "marko": "4.13.4-1"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  }
+}
