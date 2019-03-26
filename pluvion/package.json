@@ -1,0 +1,19 @@
+{
+  "name": "pluvion",
+  "version": "1.0.0",
+  "description": "Faz a extração das estações",
+  "main": "station_csv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Nascimento",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stringify": "^5.3.0",
+    "csvtojson": "^2.0.8",
+    "fs": "0.0.1-security",
+    "get-json": "^1.0.1",
+    "json2csv": "^4.4.0",
+    "jsonexport": "^2.4.1"
+  }
+}
